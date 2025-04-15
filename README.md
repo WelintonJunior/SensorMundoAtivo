@@ -84,8 +84,3 @@ Estes parâmetros estão definidos no código e podem ser ajustados conforme a n
 Você pode facilmente personalizar o código para:
 - **Adicionar mais articulações e ângulos** para monitoramento, basta adicionar mais entradas no arquivo `conf.json` e ajustar os pontos de conexão no código.
 - **Ajustar os limites angulares** para cada articulação, alterando os valores no arquivo `conf.json`.
-
-## Exemplo de Execução
-
-![Exemplo de Execução](./screenshots/exemplo.jpg) (adicionar captura de tela, se necessário)
-
